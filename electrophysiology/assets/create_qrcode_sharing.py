@@ -2,7 +2,7 @@ import qrcode
 from PIL import Image
 
 # User inputs
-in_url = "https://colab.research.google.com/drive/1ix5N38T4tl9ih4u2pSt-tuu3R5WCuL2W?usp=sharing"
+in_url = "https://colab.research.google.com/drive/1mzpL_6n53UosyECcS2GWODrQQ0wRxv0c?usp=sharing"
 in_logo = "electrophysiology/assets/FAUHS Research Program.png"
 out_qr = "electrophysiology/assets/qr_code_lab_skills_workshop.png"
 
